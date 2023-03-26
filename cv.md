@@ -7,3 +7,4 @@ Frond-end and Javascript
 Step Computer Academy, Ukraine, Kryvyi Rih
 Nov 2021 - Sep 2022
 ## ![](/bootstrapcode1.png)
+# English - B1
